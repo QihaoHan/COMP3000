@@ -1,1 +1,1 @@
-# COMP3000 Nursing Home Management System
+# COMP3000 / Nursing Home Management System
