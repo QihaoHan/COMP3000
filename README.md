@@ -1,5 +1,19 @@
 # COMP3000 / Nursing Home Management System
+# Overview
+The nursing home management system has key functions such as viewing news information, booking elderly care services, consulting nursing home information and participating in public activities. The purpose is to better manage the elderly care business.
 # Project Vison
-In the future, aging will become a problem that many countries need to face. For example, in China, the scale of nursing homes has increased year by year, and investment and policies have also gradually increased. The increase in the number of nursing homes requires a corresponding management system to improve the management of the elderly. The system can record the elderly information, physical disease registration, physical health monitoring, daily food collocation, nursing worker management, consumption management and so on. Then, through daily data analysis, a model diagram is formed and provided to the person in charge of the nursing home to control costs and improve efficiency.
+*  To make the pension system better managed
+
+* Users can learn about elderly care news and activities
+
+* Elderly care enterprises or companies will improve the infrastructure
+
+* The simple process works for everyone
+# Technology stack:
+Anterior and posterior end separation
+
+Back-end: Springboot + Mybatis
+Front end: Vue + ElementUI + Axio
+Database: Mysql
 # Supervisor
 Dr Martin Read
