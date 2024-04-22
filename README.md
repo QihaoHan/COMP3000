@@ -12,8 +12,8 @@ The nursing home management system has key functions such as viewing news inform
 # Technology stack:
 Anterior and posterior end separation
 
-Back-end: Springboot + Mybatis
-Front end: Vue + ElementUI + Axio
-Database: Mysql
+Back-end: Springboot + Mybatis</d>
+Front end: Vue + ElementUI + Axio</d>
+Database: Mysql</d>
 # Supervisor
 Dr Martin Read
